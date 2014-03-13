@@ -19,11 +19,13 @@
 				<key>bundle-identifier</key>
 				<string>com.bong.test</string>
 				<key>bundle-version</key>
-				<string>1.6</string>
+				<string>1.6.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
 				<string>bong</string>
+				<key>important</key>
+				<true/>
 			</dict>
 		</dict>
 	</array>
