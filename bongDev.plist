@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.bong.cn/download/bong.ipa</string>
+					<string>http://www.bong.cn/bongDev/bong.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
