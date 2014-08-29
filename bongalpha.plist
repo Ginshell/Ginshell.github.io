@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bong.test</string>
+				<string>com.bong.gm</string>
 				<key>bundle-version</key>
 				<string>1.8.2</string>
 				<key>kind</key>
